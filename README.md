@@ -21,7 +21,7 @@ These results illustrate the connection between molecular bond stretching, elect
 | Notebook | Content |
 |---|---|
 | `day01-03_quantum_foundations.ipynb` | Complex numbers, qubits, bra-ket notation, tensor products, Bell states, SVD, Schmidt decomposition, density matrices, and entanglement entropy |
-| day04_quantum_chemistry_foundatios`day04_quantum_chemistry_foundatios.ipynb` | Schrödinger equation, molecular Hamiltonian, Born-Oppenheimer approximation, Hartree-Fock theory, electronic correlation, and basis sets |
+| `day04_quantum_chemistry_foundatios.ipynb` | Schrödinger equation, molecular Hamiltonian, Born-Oppenheimer approximation, Hartree-Fock theory, electronic correlation, and basis sets |
 | `day05_mps_heisenberg.ipynb` | Sequential SVD for MPS construction, truncation, and the Heisenberg Hamiltonian |
 | `day06_dmrg_optimization.ipynb` | Educational implementation of two local MPS optimization steps, effective Hamiltonians, SVD-based tensor updates, and validation against exact diagonalization |
 | `day07_h2_hartreefock.ipynb` | Hartree-Fock calculations for H₂ using PySCF and the potential energy curve |
