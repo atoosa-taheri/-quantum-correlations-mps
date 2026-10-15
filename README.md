@@ -103,7 +103,7 @@ Dependency installation and execution instructions should be included in the not
 
 ## Background
 
-This independent one-month project builds on a B.Sc. in Applied Chemistry and develops computational foundations in quantum mechanics, electronic structure, and tensor-network methods.
+This independent project builds on a B.Sc. in Applied Chemistry and develops computational foundations in quantum mechanics, electronic structure, and tensor-network methods.
 
 ## Author
 
